@@ -2,7 +2,7 @@
 
 This project is used to detect similarity between documents. However, the novel poset-based masking scheme can find uses beyond similarity detection.
 
-Mentor : [Dr. Raju Halder][https://www.iitp.ac.in/~halder/]
+Mentor : [Dr. Raju Halder](https://www.iitp.ac.in/~halder/)
 
 # System Requirements
 gcc compiler
