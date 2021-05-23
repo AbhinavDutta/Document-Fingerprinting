@@ -1,0 +1,8 @@
+int main()
+{
+alpha = beta + gamma  + delta;  /* add some numbers */
+if(alpha>=beta)                 /* do some comparison */
+gamma =    beta;
+if(delta== gamma)
+alpha  = delta *  50;
+}
